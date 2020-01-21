@@ -26,7 +26,7 @@ for (var count = 1; count <= 5; count++) {
 
 // QUESTION 5
 for (var i = 15; i <= 25; i++) {
-  console.log();
+  console.log(i);
 }
 
 // QUESTION 6
